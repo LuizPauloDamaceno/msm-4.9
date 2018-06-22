@@ -118,3 +118,10 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+# binaries
+ipa_common
+
+# folders and files
+/out
+Buildlog.txt
